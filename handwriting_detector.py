@@ -47,7 +47,7 @@ def main():
 
 
 def GUI():
-    print('\n'+"**************************************\n\tDigit Classifier \n\tBy: Vincent Allam\n**************************************"+'\n')
+    print('\n'+"**************************************\n\tDigit Classifier \n\tBy: Korra Sivanaik\n**************************************"+'\n')
     print("1. Train model")
     print("2. Change hyper_parameters")
     print("3. Reset hyper_parameters to default values")
