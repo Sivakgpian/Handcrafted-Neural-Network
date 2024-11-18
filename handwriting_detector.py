@@ -6,7 +6,7 @@ import os
 
 image_dimensions = 28
 number_of_unique_labels = 10
-dataset_path = 'C:\\Users\\Vince\\Desktop\\code\\Neural_networks\\Datasets\\Handwriting dataset'
+dataset_path = 'C:\\Users\\Siva\\Desktop\\code\\Neural_networks\\Datasets\\Handwriting dataset'
 default_config_array = [image_dimensions**2, 100, number_of_unique_labels]
 default_learning_rate = 0.1
 default_epochs = 5
